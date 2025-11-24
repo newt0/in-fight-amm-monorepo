@@ -1,0 +1,51 @@
+/* Custom styles for Sui Connect Button */
+.sui-connect-button button {
+  background-color: #c8f028 !important;
+  border: 1px solid #c8f028 !important;
+  color: #000 !important;
+  font-size: 0.875rem !important;
+  padding: 0.375rem 1rem !important;
+  border-radius: 0.375rem !important;
+  font-weight: 600 !important;
+  transition: all 0.2s !important;
+}
+
+.sui-connect-button button:hover {
+  background-color: #b0d620 !important;
+  color: #000 !important;
+}
+
+/* Wallet modal styles */
+[data-radix-popper-content-wrapper] {
+  z-index: 9999 !important;
+}
+
+.sui-wallet-list {
+  background-color: #141414 !important;
+  border: 1px solid #2a2a2a !important;
+  border-radius: 0.75rem !important;
+}
+
+.sui-wallet-item {
+  background-color: #141414 !important;
+  color: #fff !important;
+  border-radius: 0.5rem !important;
+  transition: all 0.2s !important;
+}
+
+.sui-wallet-item:hover {
+  background-color: #1f1f1f !important;
+  border-color: #c8f028 !important;
+}
+
+/* Connected state */
+.sui-connect-button button[data-connected="true"] {
+  background-color: #c8f028 !important;
+  color: #000 !important;
+  font-weight: 600 !important;
+}
+
+.sui-connect-button button[data-connected="true"]:hover {
+  background-color: #b0d620 !important;
+}
+
