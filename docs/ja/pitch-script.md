@@ -1,4 +1,4 @@
-# InFight AMM ピッチスクリプト（日本語版）
+# InFight AMM ピッチスクリプト（日本語版） Long
 
 ## Intro（イントロ）
 
