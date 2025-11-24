@@ -1,0 +1,9 @@
+[package]
+name = "prediction-market"
+version = "0.1.0"
+edition = "2024.beta"
+
+[dependencies]
+
+[addresses]
+app = "0x0"

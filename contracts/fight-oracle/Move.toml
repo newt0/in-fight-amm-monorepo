@@ -1,0 +1,13 @@
+[package]
+name = "fight-oracle"
+version = "0.1.0"
+edition = "2024.beta"
+published-at = "0x038b3fd1c92573f8451d4cb508f0a5c6a0d94665b46c73d1f678acc6a089d92a"
+
+[dependencies]
+Sui = { git = "https://github.com/MystenLabs/sui.git", subdir = "crates/sui-framework/packages/sui-framework", rev = "61dcfdbe2ddc7ad05d27fc10cd09d4c6cc151acd" }
+enclave = { local = "../../nautilus-fork/move/enclave" }
+
+[addresses]
+app = "0xd786c3e18e422148bbad35166eed128445b8af98e8bfbc2e9a7c39e10ce74102"
+enclave = "0x038b3fd1c92573f8451d4cb508f0a5c6a0d94665b46c73d1f678acc6a089d92a"
