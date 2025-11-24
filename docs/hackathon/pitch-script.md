@@ -1,119 +1,141 @@
-# Pitch Script (5m)
+# InFight AMM Pitch Script (English, Long Version)
 
 ## Intro
 
 Gm guys, I’m Kyohei.
 
-Let me start with a simple question.
+Let me start with a question.
 Do you like combat sports?
-I’m a big fan myself.
+I’m actually a huge fan myself.
 
-Combat sports is a huge global market, but the online fan experience is still very limited.
-Today, fans can only watch.
-There is no way to join the excitement of the fight in real time.
+Combat sports is a massive global market.
+But the online fan experience today is still limited to just watching.
+There is no way for fans to join the excitement of the fight in real time.
 
-So we are building InFight AMM — the first real-time prediction market specialized for combat sports.
+So we are building InFight AMM —
+the world’s first realtime prediction market specialized for combat sports.
 
 ## Team
 
 We are the Web3 Fighters team.
 
-My co-founder, James Xu, is a former professional kickboxer, and he now leads Web3 strategy at one of Japan’s largest fight promotions.
+My cofounder, James Xu, is a former professional kickboxer.
+He now leads Web3 strategy at one of Japan’s largest fight promotions.
 
-I’m also a black belt in Aikido, and I have worked as CTO or Head of Japan at several Web3 companies.
-I have delivered Web3 projects for Sony, Netflix, and MAZDA.
+I am also a black belt in Aikido, and I have worked as CTO or Head of Japan at multiple Web3 companies.
+I’ve delivered Web3 projects for Sony, Netflix, and MAZDA — some of Japan’s most iconic enterprises.
 
-We deeply understand both combat sports and Web3, and that makes our team very unique.
+We are a rare team that deeply understands both combat sports and Web3.
 
-## Why InFight?
+## Web3 × Combat Sports Framework
 
-We analyzed the entire fan journey of combat sports and found many Web3 opportunities.
-But the most important point is the moment during the fight.
+First, we mapped out the full set of Web3 use cases across the combat sports lifecycle, based on real industry knowledge.
 
-There are three reasons.
+There are many opportunities — communitydriven matchmaking, tokenized sponsorship ads for fighters, and more.
 
-First, fans are most excited during the live fight.
-Second, one event has many matches, so people can join again and again.
-And finally, there is still no real-time prediction market optimized for combat sports.
+We plan to build this full ecosystem over time.
+But today, I want to focus on the realtime, infight prediction market, which is the most important moment.
 
-This is a huge market gap.
+Why?
+Because fans are most excited during the fight.
+A single event has many matches, so fans can participate again and again.
+And most importantly, there is no realtime prediction market specialized for combat sports anywhere in the world.
 
-## Existing Problems
+This is a major market gap.
 
-Existing services like Polymarket are not a good fit for combat sports.
+## Problems with Existing Markets
 
-They are too complex for normal fans.
-Settlement takes several days, so users cannot reuse their funds for the next match.
-And they cannot update odds based on second-by-second fight data.
-They simply cannot keep up with the speed of combat sports.
+Existing platforms like Polymarket are not designed for combat sports.
 
-That’s why we need something fast, simple, and designed for live fights.
+They have evolved for professional traders — too complex for the average sports fan.
+
+Even worse, settlement takes several days.
+So if your funds are locked after the first match, you cannot join the second or third match in the same event.
+
+And they cannot update positions at high speed.
+They cannot reflect live data — strikes, control time, momentum shifts — on a secondbysecond basis.
+
+Combat sports move fast.
+Traditional prediction markets cannot keep up.
+
+This is why we need a new market that is fast, intuitive, and built specifically for combat sports.
 
 ## Solution
 
-This is why we built InFight AMM.
+And that is InFight AMM.
 
-The UI is designed for sports fans, not for professional crypto traders.
-It is simple, clean, and integrated with the live stream.
+Our UI is designed for sports fans, not for professional crypto traders.
+The live stream and the market interface are integrated, so anyone can use it intuitively.
 
-Our AMM uses the LSMR model.
-The odds update instantly as the momentum of the fight changes.
-It feels almost like you are fighting together with the athletes.
+The AMM uses an LSMR model.
+The odds update instantly based on the flow of the fight.
+When momentum changes, the market reacts immediately.
+It feels almost like you’re fighting together with the athletes.
 
-Our biggest strength is instant settlement.
-Traditional prediction markets take 3 to 7 days.
+### Our biggest strength — instant settlement
+
+Traditional prediction markets take three to seven days to settle.
 InFight AMM lets users claim their winnings only 10 minutes after the fight ends.
-They can immediately join the next match.
-This speed fits perfectly with live combat sports.
 
-Another strong point is real-time, fully verified data using Nautilus.
-We pull official fight data from ONE Championship and UFC Stats.
-Nautilus signs the data inside a secure enclave and sends it on-chain in real time.
-Control time, strikes, takedowns — all the stats are trustless and tamper-proof.
+This means fans can immediately join the next match in the same event.
+This instant settlement perfectly matches the nature of combat sports.
 
-And everything runs on Sui.
-Sub-second finality and gas fees under one cent make it perfect for events with millions of active fans.
+### Our next biggest strength — verified realtime data via Nautilus
 
-## DEMO (12 seconds)
+We fetch official fight data from ONE Championship and UFC Stats.
+Nautilus signs this data inside a secure enclave and sends it onchain.
 
-Let me show you how it works.
+Control time, strikes, takedowns — all verified, realtime, and trustless.
 
-You watch the live stream and place your bet instantly.
-As the fight moves, the odds change in real time.
+### Powered by Sui
 
-You see the action and the numbers move together — that is the InFight AMM experience.
+Everything runs on Sui, with subsecond finality and gas fees under one cent.
+This makes it scalable for events with millions of simultaneous fans.
 
-## Achievements
+## Demo
 
-We already have a partnership with one of the largest fight promotions in Japan,
-and we have access to most major organizations in the country.
-We also have a former K-1 champion on our team.
+Here’s how it works.
+
+You watch the live stream and place your bet.
+The odds instantly change as the fight develops.
+
+The action and the numbers move together — that is the InFight AMM experience.
+
+## Achievements: Partnerships
+
+We are already officially partnered with one of Japan’s largest fight promotions.
+The first Chinese K1 champion is also part of our team.
+
+We also have strong access to many major fight promotions across Japan.
+
+## Achievements: Hackathons
 
 At the Sui × ONE Championship Hackathon, we won second place and ONE’s Favorite Prize.
-Since then, we have started preparing for real collaboration with ONE.
+
+This opened the door to real collaboration with ONE, and discussions are already in progress.
 
 ## Roadmap
 
-We validated the business concept at the ONE Hackathon,
-and we built a Nautilus-integrated prototype at the Haulout Hackathon.
+We validated our business at the ONE Hackathon and built a Nautilusintegrated prototype at the Haulout Hackathon.
 
-Now we are moving toward fundraising.
-We have been connected to Soma Capital, an early investor in Kalshi.
-We also have meetings scheduled with Scallop and DSRV.
+Next, we are raising funding.
+After our hackathon results went viral, we were introduced to Soma Capital — an early investor in Kalshi.
+We also have upcoming meetings with Scallop and DSRV to explore yield integration, Japan market entry, and potential investment.
 
-We applied to the JR East Startup Program, proposing a prediction market combined with anonymized mobility data.
+We have applied to the JR East Startup Program, proposing a PoC that integrates anonymized SEAL data with prediction markets.
+
 And we are launching a Web3 education program together with Waseda University.
 
 ## Ending
 
 InFight AMM is not just a prediction market.
 
-It is a new entry point that connects combat sports fans around the world to Web3,
-and it creates a deeper and more interactive relationship between fans and the sport.
+It is a new entry point that connects combat sports fans around the world to Web3.
+And it uses Web3 to create deeper, more interactive relationships between fans and the sport.
 
 And this is only the beginning.
 
-We are not only building on Sui —
+We are not just building on Sui —
 we are bringing tens of millions of combat sports fans onto Sui.
 
 Thank you very much.
