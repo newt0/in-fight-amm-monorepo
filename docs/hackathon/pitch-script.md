@@ -48,7 +48,7 @@ This is why we need something fast, simple, and built for live action.
 
 ## Solution
 
-This is why we built IN-FIGHT AMM.
+And that’s exactly what we built: IN-FIGHT AMM.
 
 The UI is made for sports fans, not for pro traders.
 It is simple, clean, and connected with the live stream.
