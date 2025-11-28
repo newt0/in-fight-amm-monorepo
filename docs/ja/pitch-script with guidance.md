@@ -29,7 +29,8 @@ but the online fan experience / is still **basic**.
 Right now, / fans can only **watch**.
 There is no way / to join the excitement / in **real time**.
 
-So we are building / **IN-FIGHT AMM** —
+So we are building /
+**IN-FIGHT AMM** —
 the first real-time prediction market / made for **combat sports**.
 
 （軽く 1 拍置く）
@@ -38,14 +39,14 @@ the first real-time prediction market / made for **combat sports**.
 
 ## Team
 
-We are / the **Web3 Fighters** team.
+We are the **Web3 Fighters** team.
 
 James is a former **professional kickboxer**,
 and leads Web3 strategy / at one of the biggest / fight promotions in Japan.
 
 I’m a black belt / in **Aikido**,
-and I’ve worked as CTO / or Japan Head / at several Web3 startups —
-delivering projects for **Sony**, **MAZDA**, **Netflix**, and more.
+and I’ve worked as CTO / or Japan Head↓ / at several Web3 startups —
+delivering projects for **Sony**, **MAZDA**, **Netflix**, brabrabra.
 
 （力を抜いて）
 
@@ -57,14 +58,13 @@ This mix is **rare**, / and gives us / a real **edge**.
 
 ## Why IN-FIGHT?
 
-We mapped / the full fan journey / in combat sports,
+We mapped the full fan journey in combat sports,
 and found many chances / for Web3.
 
 But the key moment / is the **live fight**.
 
-Fans feel / the strongest **excitement**.
-Each event has / many matches,
-so people can join / again and again.
+Fans feel the strongest **excitement**.
+Each event has many matches,so people can join / again and again.
 
 And no real-time prediction market / exists for this space.
 It is a clear / **market gap**.
@@ -73,18 +73,18 @@ It is a clear / **market gap**.
 
 ## Existing Problems
 
-Current services / like **Polymarket** / do not work well / for combat sports.
+Current services like **Polymarket** / do not work well for combat sports.
 
-They are too **complex** / for casual fans.
+They are too **complex** for casual fans.
 Settlement takes **days**,
-so users cannot join / the next match.
+so users cannot join the next match.
 And the odds do not change / with second-by-second / fight data.
 
 （少し強めに）
 
-They simply / cannot keep up / with the **speed** of the sport.
+They simply cannot keep up / with the **speed** of the sport.
 
-This is why we need / something **fast**, / **simple**, /
+This is why we need something **fast**, **simple**,
 and built for **live action**.
 
 ---
@@ -108,8 +108,8 @@ Instant settlement / is our strongest feature.
 
 Normal prediction markets take / **3 to 7 days**.
 IN-FIGHT AMM pays out / in **about 10 minutes** / after the fight.
-Users can move / to the next match / right away.
-This speed fits / live combat sports / perfectly.
+Users can move to the next match / right away.
+This speed, fits live combat sports perfectly.
 
 We also use / verified real-time data / via **Nautilus**.
 We pull official fight data / from partners / like ONE Championship.
@@ -143,7 +143,7 @@ This is / our **UX**.
 
 ## Achievements
 
-Here is / some of our **traction**.
+Here is our **traction**.
 
 We already partner / with one of the biggest / fight promotions in Japan.
 We also have access / to other major organizations,
