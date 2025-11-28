@@ -108,5 +108,5 @@ And this is only the start.
 We are not only building on Sui —
 we are bringing millions of fans onto Sui.
 
-Finally, many of our recent opportunities came from the last
-Sui hackathon. Thank you.
+And honestly, we gained many of these opportunities thanks to the last Sui hackathon.
+Thank you so much.
