@@ -12,14 +12,13 @@ Combat sports is a huge global market, but the online fan experience is still ba
 Right now, fans can only watch.
 There is no way to join the excitement in real time.
 
-So we are building IN-FIGHT AMM —
-the first real-time prediction market made for combat sports.
+So we are building IN-FIGHT AMM — the first real-time prediction market made for combat sports.
 
 ## Team
 
 We are the Web3 Fighters team.
 James is a former professional kickboxer and leads Web3 strategy at one of the biggest fight promotions in Japan.
-I am a black belt in Aikido and have worked as CTO or Head of Japan at several Web3 companies, delivering projects for Sony, Netflix, and MAZDA.
+I am a black belt in Aikido and have worked as CTO or Japan Head at several Web3 startups, delivering projects for Sony, MAZDA, Netflix, brabrabra.
 
 We know combat sports.
 We know Web3.
@@ -70,37 +69,34 @@ Nautilus signs the data in a secure enclave and sends it on-chain in real time.
 Control time, strikes, takedowns — all trustless, all tamper-proof.
 
 And all of this runs on Sui, a highly scalable Layer-1.
-It can support millions of fans using the platform at the same time.
+It enables millions of fans to use the platform at the same time.
 
 ## Demo (12 seconds)
 
-Let me show you how it looks.
-
+Let me show you how it works. Just a quick product demo.
 You watch the live stream and place your bet instantly.
-As the fight moves, the odds move with it — in real time.
+As the fight moves, the odds move with it in real time.
 
 You see the action and the numbers change together.
 This is our UX.
 
 ## Achievements
 
-We already have a partnership with one of the biggest fight promotions in Japan.
-We also have access to other major organizations.
-And a former K-1 champion is part of our team.
+Here is some of our traction.
+We already partner with one of the biggest fight promotions in Japan, have access to other major organizations, and even have a former K-1 champion on our team.
 
 At the Sui × ONE Championship Hackathon, we won second place and ONE’s Favorite Prize.
 Since then, we have started real collaboration talks with ONE.
 
 ## Roadmap
 
+Here is our roadmap.
 We validated the concept through several Sui hackathons and built working prototypes.
 Now we are moving into fundraising.
 
 We’ve been in regular contact with 3RD GEAR, a Dentsu group company and an investor in both Sui and ONE.
-I’m also getting advice from Kriss at Scallop.
+We're also getting advice from Kriss at Scallop. He’s been an amazing mentor for us.
 And we’re having ongoing conversations with Soma Capital, a seed investor in Kalshi.
-
-And we are launching a Web3 education program together with Waseda University.
 
 ## Ending
 
