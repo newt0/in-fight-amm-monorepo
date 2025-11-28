@@ -95,7 +95,7 @@ We validated the concept through several Sui hackathons and built working protot
 Now we are moving into fundraising.
 
 We’ve been in regular contact with 3RD GEAR, a Dentsu group company and an investor in both Sui and ONE.
-We're also getting advice from Kriss at Scallop. He’s been an amazing mentor for us.
+We’re also getting advice from Kriss at Scallop — an amazing mentor.
 And we’re having ongoing conversations with Soma Capital, a seed investor in Kalshi.
 
 ## Ending
