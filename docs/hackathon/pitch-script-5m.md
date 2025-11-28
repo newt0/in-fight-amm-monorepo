@@ -96,11 +96,9 @@ Since then, we have started real collaboration talks with ONE.
 We validated the concept through several Sui hackathons and built working prototypes.
 Now we are moving into fundraising.
 
-We are meeting with 3RD GEAR, a Dentsu group company and an investor in both Sui and ONE.
-We have had a close relationship with them for several years.
-
-We are also speaking with Soma Capital, a seed investor in Kalshi,
-and Scallop, the No.1 DeFi protocol on Sui.
+We’ve been in regular contact with 3RD GEAR, a Dentsu group company and an investor in both Sui and ONE.
+I’m also getting advice from Kriss at Scallop.
+And we’re having ongoing conversations with Soma Capital, a seed investor in Kalshi.
 
 And we are launching a Web3 education program together with Waseda University.
 
@@ -114,4 +112,5 @@ And this is only the start.
 We are not only building on Sui —
 we are bringing millions of fans onto Sui.
 
-Thank you very much.
+Finally, many of our recent opportunities came from the last
+Sui hackathon. Thank you.
