@@ -18,11 +18,8 @@ the first real-time prediction market made for combat sports.
 ## Team
 
 We are the Web3 Fighters team.
-
-James is a former professional kickboxer, and he leads Web3 strategy at one of the biggest fight promotions in Japan.
-
-I am a black belt in Aikido, and I have worked as CTO or Head of Japan at several Web3 companies.
-I have delivered projects for Sony, Netflix, and MAZDA.
+James is a former professional kickboxer and leads Web3 strategy at one of the biggest fight promotions in Japan.
+I am a black belt in Aikido and have worked as CTO or Head of Japan at several Web3 companies, delivering projects for Sony, Netflix, and MAZDA.
 
 We know combat sports.
 We know Web3.
@@ -52,7 +49,7 @@ This is why we need something fast, simple, and built for live action.
 
 ## Solution
 
-This is why we built In-Fight AMM.
+This is why we built IN-FIGHT AMM.
 
 The UI is made for sports fans, not for pro traders.
 It is simple, clean, and connected with the live stream.
@@ -100,7 +97,7 @@ We validated the concept through several Sui hackathons and built working protot
 Now we are moving into fundraising.
 
 We are meeting with 3RD GEAR, a Dentsu group company and an investor in both Sui and ONE.
-We have had a close relationship with them for a few years.
+We have had a close relationship with them for several years.
 
 We are also speaking with Soma Capital, a seed investor in Kalshi,
 and Scallop, the No.1 DeFi protocol on Sui.
@@ -115,6 +112,6 @@ It creates a deeper, more interactive fan experience.
 
 And this is only the start.
 We are not only building on Sui —
-we are bringing millions of fans around the world onto Sui.
+we are bringing millions of fans onto Sui.
 
 Thank you very much.
